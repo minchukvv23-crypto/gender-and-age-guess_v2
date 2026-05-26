@@ -1,0 +1,75 @@
+{
+  "female_14-17": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50.0
+  },
+  "female_18-24": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50.0
+  },
+  "female_25-34": {
+    "precision": 1.0,
+    "recall": 0.98,
+    "f1-score": 0.98989898989899,
+    "support": 50.0
+  },
+  "female_35-44": {
+    "precision": 0.9803921568627451,
+    "recall": 1.0,
+    "f1-score": 0.9900990099009901,
+    "support": 50.0
+  },
+  "female_45+": {
+    "precision": 1.0,
+    "recall": 0.98,
+    "f1-score": 0.98989898989899,
+    "support": 50.0
+  },
+  "male_14-17": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50.0
+  },
+  "male_18-24": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50.0
+  },
+  "male_25-34": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50.0
+  },
+  "male_35-44": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50.0
+  },
+  "male_45+": {
+    "precision": 0.9803921568627451,
+    "recall": 1.0,
+    "f1-score": 0.9900990099009901,
+    "support": 50.0
+  },
+  "accuracy": 0.996,
+  "macro avg": {
+    "precision": 0.996078431372549,
+    "recall": 0.9960000000000001,
+    "f1-score": 0.9959995999599961,
+    "support": 500.0
+  },
+  "weighted avg": {
+    "precision": 0.9960784313725489,
+    "recall": 0.996,
+    "f1-score": 0.995999599959996,
+    "support": 500.0
+  }
+}
